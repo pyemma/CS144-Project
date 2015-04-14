@@ -1,0 +1,74 @@
+Buildfile: /media/sf_vm-shared/project3-client/build.xml
+
+init:
+
+compile:
+     [echo] project3-client: /media/sf_vm-shared/project3-client/build.xml
+
+run:
+     [java] log4j:WARN No appenders could be found for logger (org.apache.axis2.context.AbstractContext).
+     [java] log4j:WARN Please initialize the log4j system properly.
+     [java] Reply: Test message
+     [java] Basic Seacrh Query: superman
+     [java] Received 20 results
+     [java] 1049430907: SUPERMAN WITH GEN 13 AND OTHER PRESTIGE BOOKS
+     [java] 1045823269: Superman Doomsday Hunter Prey tpb
+     [java] 1048743351: Superman Lunchbox Hallmark Ornament
+     [java] 1047761329: Superman Domed Lunchbox/Carrying Case NEW!!
+     [java] 1048263344: SUPERMAN DAILY PLANET Magnet PICTURE FRAME
+     [java] 1046936194: SUPERMAN METAL LUNCH BOX
+     [java] 1047388061: SUPERMAN #405 NM "BATMAN" (1985)
+     [java] 1048647703: SUPERMAN COMIC N0.199 - AUSTRALIAN ISSUE
+     [java] 1047692530: BATMAN OR SUPERMAN CHRISTMAS ORNAMENTS HOT!!
+     [java] 1049272510: SUPERMAN FRIEND MIRROR PICTURE FRAME
+     [java] 1045602125: Superman Postcards 1972 Super COOL!!!!!!
+     [java] 1496788150: Lois And Clark, Superman Pilot, Dean Cain VHS
+     [java] 1046639674: SUPERMAN 1940 ACTION COMIC
+     [java] 1497574160: SHAW'S COMEDY MAN AND SUPERMAN PROGRAM
+     [java] 1494232488: SHAW'S COMEDY MAN AND SUPERMAN PROGRAM
+     [java] 1678142392: new underoos superman t-shirt size 8
+     [java] 1048720097: RARE 1965 SUPERMAN GUM CARDS TV REEVES # 5
+     [java] 1046820567: !! EMBOSSED Superman 'BUST OUT' TIN LUNCH BOX
+     [java] 1046290388: SUPERMAN comic book 22 books 203 309 uqk
+     [java] 1679241569: Superman combo deal T-shirt &fitted twill cap
+     [java] Spatial Seacrh
+     [java] Received 17 results
+     [java] 1677060104: Red/Blue BOSS Polo Shirt - New!! Must See!
+     [java] 1678099095: Harley-Davidson Black Wool Neck Scarf L@@K!!!
+     [java] 1496387414: AUTOGRAPHED Buffy The Vampire Slayer script!
+     [java] 1047172284: Set of 3 Star Wars posters from the late 70s
+     [java] 1497651893: Eldorado * 1921 * Expressionist Silent VHS
+     [java] 1497158463: !!! BUFFY THE VAMPIRE SLAYER SCRIPTS !!!
+     [java] 1497742601: Fast and the Furious DVD NEW Paul Walker
+     [java] 1676070903: Cosmopolitan Virtual Makeover 2 Deluxe - NEW
+     [java] 1497781678: Joshua Jackson HOT HOT HOT HOT 8x10 Pic!
+     [java] 1494664815: Christina Ricci 6 FLAWLESS BEA photos!!
+     [java] 1496946372: Daisy Fuentes GORGEOUS FACE 8x10 Photo!!
+     [java] 1494666817: DAISY FUENTES 6 Photos SEXXY LEATHER OUTFIT!!
+     [java] 1674875191: Mens Men Armani Exchange A/X coat jacket L
+     [java] 1309253249: Vivitar Series 1 70-210mm Zoom - Nikon AI
+     [java] 1494228868: The Truman Show-Movie-1998 Original Script
+     [java] 1497262695: JUNE 1914 THE THEATRE-George M. Cohan & MORE!
+     [java] 1496216156: DARK ANGEL SEASON 1 NO COMMERCIALS JESS ALBA
+     [java] XML data for ItemId: 1497595357
+     [java] <Item ItemID="1497595357">
+     [java]   <Name>PINK FLOYD~Syd Barretts First Trip~SEALED~dvd</Name>
+     [java]   <Category>Movies &amp; Television</Category>
+     [java]   <Category>Video, Film</Category>
+     [java]   <Category>DVD</Category>
+     [java]   <Category>Music &amp; Concert</Category>
+     [java]   <Currently>$9.99</Currently>
+     [java]   <First_Bid>$9.99</First_Bid>
+     [java]   <Number_of_Bids>0</Number_of_Bids>
+     [java]   <Bids/>
+     [java]   <Location>PLEASE SEE MY OTHER AUCTIONS</Location>
+     [java]   <Country>USA</Country>
+     [java]   <Started>Dec-16-01 19:13:16</Started>
+     [java]   <Ends>Dec-23-01 19:13:16</Ends>
+     [java]   <Seller Rating="1024" UserID="rarevideo4sale"/>
+     [java]   <Description/>
+     [java] </Item>
+     [java] 
+
+BUILD SUCCESSFUL
+Total time: 1 second

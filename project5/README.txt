@@ -1,0 +1,5 @@
+Q1: I used SSL encryption in (4) -> (5) and (5) -> (6). Since in this two parts, the information of the credit card is being transported and so we need to make it security.
+
+Q2: I used the session to store all the items that the use have looked which is able to buy in a hashmap. When the use try's to pay some item, the item id would be passed as a parameter and the severlet would check to see if there is a valid item in the session. If there is no, then it would redirect to error page. Otherwise, the user would see the payment page.
+
+In my implemention, the user could browser multiple items at one time and pay for them each. The confirmation will show each payment seperately. And if the user use SSL in other pages, it will be redirected to normal http in order to reduce computation. And if the user try to pay two same item within the same browser, only one would be successful since after the payment the item would be time out. The user need to go to getItem page to search again to buy it after one payment. This might be different from others' implemention, however, there is no clear requirement on this situtation.

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<script type="text/javascript" src="autosuggest.js"></script>
+	<script type="text/javascript" src="suggestions.js"></script>
+	<link rel="stylesheet" type="text/css" href="autosuggest.css" />
+	<link rel="stylesheet" type="text/css" href="simple.css" />  
+	<script type="text/javascript">
+            window.onload = function () {
+                var oTextbox = new AutoSuggestControl(document.getElementById("txt1"), new StateSuggestions());        
+            }
+    </script>
+</head>
+<body>
+<form action="search" mehtod="GET">
+<h5> Please type in the keyword you want to search! </h5>
+<br>
+<input type = "text" id = "txt1" name = "q">
+<br>
+<input type = "hidden" name = "numResultsToSkip" value = "0" readonly>
+<br>
+<input type = "hidden" name = "numResultsToReturn" value = "20" readonly>
+<br>
+<input type = "submit" value = "Search">
+<br>
+</form>
+</body>
+</html>
